@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+catboost
+xgboost
+dill
+Flask==2.2.2
+Flask-Cors==3.0.10
+lime
+#-e .
