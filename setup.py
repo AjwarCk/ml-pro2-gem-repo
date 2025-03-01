@@ -24,7 +24,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name = 'mlproject_regression',
+    name = 'ml-project-gem_price-prediction-regression',
     version = '0.0.1',
     author = 'Ajwar CK',
     packages = find_packages(),
