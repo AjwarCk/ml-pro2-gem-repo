@@ -2,7 +2,7 @@
 
 ## End to End Machine Learning Project2.
 
-# Gemstone Price Prediction - 
+## Gemstone Price Prediction - 
 
 ## Introduction About the Data : 
 
