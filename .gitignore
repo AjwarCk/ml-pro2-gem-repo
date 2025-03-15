@@ -173,3 +173,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Auto-generated Pipeline Artifacts
+# This directory holds generated files (e.g., train/test data, model & preprocessor files)
+# that are created during data processing and model training. Since they can be recreated
+# from the source code and data, they are excluded from version control.
+artifacts/
